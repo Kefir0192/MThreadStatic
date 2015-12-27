@@ -2,3 +2,7 @@
 ```
 
 ```
+
+## License
+
+[BSD](./LICENSE).
